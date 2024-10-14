@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalAppointment.Core", "HospitalAppointment.Core\HospitalAppointment.Core.csproj", "{5B84E574-1E80-4153-9599-EE42F25DF127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalAppointment.Repository", "HospitalAppointment.Repository\HospitalAppointment.Repository.csproj", "{B209B719-B366-4BB2-B073-EF7DD0523032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalAppointment.Service", "HospitalAppointment.Service\HospitalAppointment.Service.csproj", "{2AED18F4-3AC6-475F-9745-A994021CD398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalAppointment.API", "HospitalAppointment.API\HospitalAppointment.API.csproj", "{5405B37A-BA01-4585-AD1D-7DF6DC09175C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B84E574-1E80-4153-9599-EE42F25DF127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B84E574-1E80-4153-9599-EE42F25DF127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B84E574-1E80-4153-9599-EE42F25DF127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B84E574-1E80-4153-9599-EE42F25DF127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B209B719-B366-4BB2-B073-EF7DD0523032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B209B719-B366-4BB2-B073-EF7DD0523032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B209B719-B366-4BB2-B073-EF7DD0523032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B209B719-B366-4BB2-B073-EF7DD0523032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AED18F4-3AC6-475F-9745-A994021CD398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AED18F4-3AC6-475F-9745-A994021CD398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AED18F4-3AC6-475F-9745-A994021CD398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AED18F4-3AC6-475F-9745-A994021CD398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5405B37A-BA01-4585-AD1D-7DF6DC09175C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5405B37A-BA01-4585-AD1D-7DF6DC09175C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5405B37A-BA01-4585-AD1D-7DF6DC09175C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5405B37A-BA01-4585-AD1D-7DF6DC09175C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
