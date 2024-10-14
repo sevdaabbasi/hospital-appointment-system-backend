@@ -1,0 +1,12 @@
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/bin/Debug/net8.0/HospitalAppointment.Core.deps.json
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/bin/Debug/net8.0/HospitalAppointment.Core.dll
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/bin/Debug/net8.0/HospitalAppointment.Core.pdb
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/obj/Debug/net8.0/HospitalAppointment.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/obj/Debug/net8.0/HospitalAppointment.Core.AssemblyInfoInputs.cache
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/obj/Debug/net8.0/HospitalAppointment.Core.AssemblyInfo.cs
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/obj/Debug/net8.0/HospitalAppointment.Core.csproj.CoreCompileInputs.cache
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/obj/Debug/net8.0/HospitalAppointment.Core.sourcelink.json
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/obj/Debug/net8.0/HospitalAppointment.Core.dll
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/obj/Debug/net8.0/refint/HospitalAppointment.Core.dll
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/obj/Debug/net8.0/HospitalAppointment.Core.pdb
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Core/obj/Debug/net8.0/ref/HospitalAppointment.Core.dll

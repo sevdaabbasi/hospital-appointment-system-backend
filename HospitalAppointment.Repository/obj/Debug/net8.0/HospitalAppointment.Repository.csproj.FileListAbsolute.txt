@@ -1,0 +1,16 @@
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/bin/Debug/net8.0/HospitalAppointment.Repository.deps.json
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/bin/Debug/net8.0/HospitalAppointment.Repository.dll
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/bin/Debug/net8.0/HospitalAppointment.Repository.pdb
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/bin/Debug/net8.0/HospitalAppointment.Core.dll
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/bin/Debug/net8.0/HospitalAppointment.Core.pdb
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/obj/Debug/net8.0/HospitalAppointment.Repository.csproj.AssemblyReference.cache
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/obj/Debug/net8.0/HospitalAppointment.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/obj/Debug/net8.0/HospitalAppointment.Repository.AssemblyInfoInputs.cache
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/obj/Debug/net8.0/HospitalAppointment.Repository.AssemblyInfo.cs
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/obj/Debug/net8.0/HospitalAppointment.Repository.csproj.CoreCompileInputs.cache
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/obj/Debug/net8.0/HospitalAppointment.Repository.sourcelink.json
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/obj/Debug/net8.0/Hospital.796F1F6E.Up2Date
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/obj/Debug/net8.0/HospitalAppointment.Repository.dll
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/obj/Debug/net8.0/refint/HospitalAppointment.Repository.dll
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/obj/Debug/net8.0/HospitalAppointment.Repository.pdb
+/Users/sevdaabbasi/RiderProjects/HospitalAppointmentSystemBackend/HospitalAppointment.Repository/obj/Debug/net8.0/ref/HospitalAppointment.Repository.dll
